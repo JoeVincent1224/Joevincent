@@ -1,0 +1,4 @@
+Apples: 50
+Grapes: 15
+Oranges: 56
+Carrot: 25
